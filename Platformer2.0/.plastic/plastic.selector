@@ -1,0 +1,4 @@
+repository "Platformer2.0@Molnier@cloud"
+  path "/"
+    br "/main"
+    co "/main"
